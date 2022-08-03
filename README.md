@@ -1,5 +1,7 @@
 # UiPathProjects_Basics
 
+20 Basic projects in 20 days
+==========================
 RPA UiPath : Learn from the industry expert
 ✔ First 2 sessions are free
     - Duration: 20 Online Hours
