@@ -1,4 +1,4 @@
-<center># UiPath Projects Basics</center>
+UiPath Projects Basics
 
 20 Basic projects in 20 days
 ==========================
