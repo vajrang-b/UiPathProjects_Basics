@@ -1,16 +1,18 @@
-# UiPathProjects_Basics
+# UiPath Projects Basics
 
 20 Basic projects in 20 days
 ==========================
+
 RPA UiPath : Learn from the industry expert
 ✔ First 2 sessions are free
     - Duration: 20 Online Hours
-    - Mode of Training :- Online 
+    - Mode of Training :- Online
     - Phone number/what's app :-
-Contact details 
+Contact details
 ------------------------
 
 Prerequisites: Learning Attitude
+
 1. Introduction to RPA
     • About RPA
     • RPA Tools
@@ -77,7 +79,7 @@ Prerequisites: Learning Attitude
 10. Citrix Automation
     • Introduction to Citrix Automation
     • Example of Citrix Automation
-11. Excel & Data Tables 
+11. Excel & Data Tables
     • Excel Activities
     • Data Tables Activities
     • Examples
