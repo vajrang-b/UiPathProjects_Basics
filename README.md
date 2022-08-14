@@ -1,6 +1,6 @@
 # UiPath Projects Basics
 
-## Learn UiPath basics by building 20 Basic projects in 20 days using UiPath Modern Design activities
+## Learn UiPath basics by building 20 Basic projects in 20 days using _ UiPath Modern Design activities _
 
 
 ### The RPA Services Market Will Grow To Reach USD 12 Billion By 2023 
