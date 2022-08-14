@@ -14,7 +14,7 @@ Learn from the industry experts
 
 ---
 
-Prerequisites: Learning Attitude and focused to 
+Prerequisites: Windows machine with UiPath installed and Internet connection 
 
 > 1.Introduction to RPA
 
