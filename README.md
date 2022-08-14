@@ -1,11 +1,10 @@
 # UiPath Projects Basics
 
-## Learn UiPath basics by building 20 Basic projects in 20 days using _ UiPath Modern Design activities _
+## Learn UiPath basics by building 20 Basic projects in 20 days using _UiPath Modern Design activities_
 
+### The RPA Services Market Will Grow To Reach USD 12 Billion By 2023
 
-### The RPA Services Market Will Grow To Reach USD 12 Billion By 2023 
-
-Learn from the industry experts 
+Learn from the industry experts
 
     Duration: 20 Online Hours
     Mode of Training :- Online
@@ -14,7 +13,7 @@ Learn from the industry experts
 
 ---
 
-Prerequisites: Windows machine with UiPath installed and Internet connection 
+Prerequisites: Windows machine with UiPath installed and Internet connection
 
 > 1.Introduction to RPA
 
