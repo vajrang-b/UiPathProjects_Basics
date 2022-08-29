@@ -15,7 +15,7 @@ Learn from the industry experts
 
 Prerequisites: Windows machine with UiPath installed and Internet connection
 
-> 1.Introduction to RPA
+> 1. Introduction to RPA
 
     About RPA
     RPA Tools
@@ -140,7 +140,6 @@ Prerequisites: Windows machine with UiPath installed and Internet connection
     Config File
     Global Variables
     The Default Type of Variables in the Main Workflow
->
->17. Two Live projects on ReFramework
 
->18. Interview question and interview practice
+  
+>17. Interview questions and interview practice
