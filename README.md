@@ -41,14 +41,12 @@ Prerequisites: Windows machine with UiPath installed and Internet connection
     Activities Panel (Common Activities)
     Importing Packages
     Demo on Importing Packages
-    Design Panel
-    Library Panel
+    Design Panel    
     Project Panel
     Properties Panel
     Outline Panel
     Output Panel
-    Control Panel
-
+    
 > 3. Types of Workflows
   
     Sequences
