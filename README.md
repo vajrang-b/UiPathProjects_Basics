@@ -94,33 +94,28 @@ Prerequisites: Windows machine with UiPath installed and Internet connection
     Image Activities
     Examples for all activities
 >
->10. Citrix Automation
-
-    Introduction to Citrix Automation
-    Example of Citrix Automation
->
->11. Excel & Data Tables
+>10. Excel & Data Tables
 
     Excel Activities
     Data Tables Activities
     Examples
 >
->12. PDF
+>11. PDF
 
     Data Extraction from PDF
     PDF Activities
 >
->13. Email Automation
+>12. Email Automation
 
     Email Automation
     Email Activities
 >
->14. Debugging and Exception Handling
+>13. Debugging and Exception Handling
 
     Debug Workflow
     Error Handlings
 >
->15. UiPath Orchestrator
+>14. UiPath Orchestrator
 
     Orchestrator Overview
     Connecting a Robot
@@ -131,7 +126,7 @@ Prerequisites: Windows machine with UiPath installed and Internet connection
     Queues in Orchestrator
     Schedule and Run an Unattended Robot
 >
->16. ReFramework
+>15. ReFramework
 
     Overview of ReFramework
     Components of ReFramework Workflow
@@ -140,4 +135,4 @@ Prerequisites: Windows machine with UiPath installed and Internet connection
     The Default Type of Variables in the Main Workflow
 
   
->17. Interview questions and interview practice
+>16. Interview questions and interview practice
