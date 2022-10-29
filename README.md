@@ -28,7 +28,7 @@ Prerequisites: Windows machine with UiPath installed and Internet connection
     UiPath Installation
     Setting Up the Browser
 
-> 2. Workflow Designer Panels
+> 2. Workflow Designer Panels 
   
     Getting Started with UiPath
     Project and Project Types
